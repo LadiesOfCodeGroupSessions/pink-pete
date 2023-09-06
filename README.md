@@ -1,0 +1,3 @@
+[Kata:Pete, the baker](https://docs.google.com/document/d/1oCyiPhXUx_eRFSYk36zzGDB3W8lfwMd6pNxHEU5Rm8A/edit)
+
+Write a function cakes(), which takes the recipe (object) and the available ingredients (also an object) and returns the maximum number of cakes Pete can bake (integer). For simplicity there are no units for the amounts (e.g. 1 lb of flour or 200 g of sugar are simply 1 or 200). Ingredients that are not present in the objects, can be considered as 0.
