@@ -1,4 +1,4 @@
-function cakes() {
+function cakes(recipe, available) {
     return 2;
 }
 
